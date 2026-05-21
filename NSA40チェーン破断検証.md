@@ -113,15 +113,15 @@ $$t = \sqrt{\frac{2h}{g}}$$
 ### 図1：チェーン破断後の安全棒の状態
 
 <p align="center">
-  <img src="image/IMG_3640.JPG" width="40%">
+  <img src="image/IMG_3640.JPG" width="400">
 </p>
 
 ---
 
-### 図2：チェーン破断時の安全棒の破損部詳細
+### 図2：安全棒破損部詳細
 
 <p align="center">
-  <img src="image/IMG_3642.JPG" width="40%">
+  <img src="image/IMG_3642.JPG" width="400">
 </p>
 
 ---
@@ -129,17 +129,16 @@ $$t = \sqrt{\frac{2h}{g}}$$
 ### 図3：安全棒ホルダーの状態
 
 <p align="center">
-  <img src="image/IMG_3659.JPG" width="40%">
+  <img src="image/IMG_3659.JPG" width="400">
 </p>
 
 ---
 
-### 図4：キャッチギアおよび穴部の状態
+### 図4：キャッチギア状態
 
 <p align="center">
-  <img src="image/IMG_3669.JPG" width="40%">
+  <img src="image/IMG_3669.JPG" width="400">
 </p>
-
 
 ---
 
