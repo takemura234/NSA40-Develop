@@ -14,6 +14,7 @@
 
 ▶ NSA40チェーン破断試験の検証動画  
 https://youtu.be/cFXXVoS4n7Q
+※動画時間30秒にて破断実施
 
 ▶ ※参考NSA37チェーン破断試験の検証動画  
 https://youtu.be/O4WfCI-7f7k
