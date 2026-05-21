@@ -12,8 +12,11 @@
 </div>
 ## 動画資料
 
-▶ チェーン破断試験の検証動画  
+▶ NSA40チェーン破断試験の検証動画  
 https://youtu.be/cFXXVoS4n7Q
+
+▶ ※参考NSA37チェーン破断試験の検証動画  
+https://youtu.be/O4WfCI-7f7k
 
 
 # 技術判断書
