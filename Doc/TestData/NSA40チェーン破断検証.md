@@ -113,22 +113,22 @@ $$t = \sqrt{\frac{2h}{g}}$$
 <table>
   <tr>
     <td align="center">
-      <img src="image/IMG_3640.JPG" width="350"><br>
+      <img src="../../image/IMG_3640.JPG" width="350"><br>
       図1：安全棒の状態
     </td>
     <td align="center">
-      <img src="image/IMG_3642.JPG" width="350"><br>
+      <img src="../../image/IMG_3642.JPG" width="350"><br>
       図2：安全棒破損部
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="image/IMG_3659.JPG" width="350"><br>
+      <img src="../../image/IMG_3659.JPG" width="350"><br>
       図3：ホルダー状態
     </td>
     <td align="center">
-      <img src="image/IMG_3669.JPG" width="350"><br>
+      <img src="../../image/IMG_3669.JPG" width="350"><br>
       図4：キャッチギア状態
     </td>
   </tr>
